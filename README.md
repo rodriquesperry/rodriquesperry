@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Java**
 
+- 🔭 I’m currently working on [Java Adlister](https://github.com/rodriquesperry/java-adlister)
+
 - 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **rodriques.g.perry@gmail.com**
