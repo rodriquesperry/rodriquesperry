@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 🔭 I’m currently working on [Java Adlister](https://github.com/rodriquesperry/java-adlister)
+- 🔭 I’m currently working on [Food For Thought - Capstone](https://github.com/rodriquesperry/java-adlister)
 
 - 💬 Ask me about **JavaScript**
 
