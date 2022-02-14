@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 🔭 I’m currently working on [Food For Thought - Capstone](https://github.com/rodriquesperry/java-adlister)
+- 🔭 I’m currently working on [Food For Thought - Capstone](https://thinkfood.club)
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **Anything... I am always willing to help!**
 
 - 📫 How to reach me **rodriques.g.perry@gmail.com**
 
