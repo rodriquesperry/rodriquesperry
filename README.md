@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 🔭 I’m currently working on [Food For Thought - Capstone](https://thinkfood.club)
+- 🔭 I’m currently working on [Chateau-Dijon Townhomes Website](http://rodriquesgabronz.com/chateau-dijon/)
 
 - 💬 Ask me about **Anything... I am always willing to help!**
 
