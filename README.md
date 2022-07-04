@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rodriques Perry</h1>
 <h3 align="center">A Full Stack Web Developer</h3>
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Node.js/express.js/MongoDB**
 
-- 🔭 I’m currently working on [Chateau-Dijon Townhomes Website](http://rodriquesgabronz.com/chateau-dijon/)
+- 🔭 I’m currently working on [Chateau-Dijon Townhomes Website](http:/chateau-dijon.com)
 
 - 💬 Ask me about **Anything... I am always willing to help!**
 
