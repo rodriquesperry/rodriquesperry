@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 🔭 I’m currently working on [MERN eCommerce store Swag Clothing]()
+- 🔭 I’m currently working on [MERN eCommerce store Swag Shop]()
 
 - 💬 Ask me about **Anything... I am always willing to help!**
 
