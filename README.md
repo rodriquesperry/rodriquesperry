@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Node.js/express.js/MongoDB**
 
-- 🔭 I’m currently working on [Chateau-Dijon Townhomes Website](http:/chateau-dijon.com)
+- 🔭 I’m currently working on [MERN eCommerce store Swag Clothing]()
 
 - 💬 Ask me about **Anything... I am always willing to help!**
 
